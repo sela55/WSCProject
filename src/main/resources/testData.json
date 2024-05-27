@@ -1,0 +1,12 @@
+{
+  "ebayUrl": "https://www.ebay.com/",
+  "petstoreUrl": "https://petstore.swagger.io/v2/store/order",
+  "q2Pojo": {
+    "id": 1,
+    "petId": 0,
+    "quantity": 0,
+    "shipDate": "2024-05-27T20:11:33.492Z",
+    "status": "placed",
+    "complete": true
+  }
+}
